@@ -1,9 +1,9 @@
 <?php
-$servidor = "82.223.31.134";
+$servidor = "yourserver";
 $opcionesConexion = array(
     "Database" => "PRACTICAS",
     "UID" => "bbdd",
-    "PWD" => "2423dcl",
+    "PWD" => "2420",
     "CharacterSet" => "UTF-8"
 );
 
